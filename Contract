@@ -1231,22 +1231,7 @@ interface IUniswapV2Router02 {
     ) external;
 }
 
-////// src/ChadFi.sol
-/**
 
-Chad Finance
-
-u'all are not ready for this
-
-Tax for Buying/Selling: 12%
-    - 2% of each transaction sent to holders as ETH transactions
-    - 5% of each transaction sent to Treasury Wallet
-    - 5% of each transaction sent to the Liquidity Pool
-
-Earning Dashboard:
-https:/chadfi.xyz
-
-*/
 
 /* pragma solidity 0.8.10; */
 
